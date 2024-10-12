@@ -1,0 +1,35 @@
+commit e4d3307e332913fa4305b7d3bba4f19f7547f2f2
+Author: Murema Manganyi <mngkho012@myuct.ac.za>
+Date:   Mon Aug 12 13:52:46 2024 +0200
+
+    Creating utilities for experimenting
+
+commit 332fef7f62c6f09786f9c92777725efaf2b27790
+Author: Murema Manganyi <mngkho012@myuct.ac.za>
+Date:   Thu Aug 8 03:37:20 2024 +0200
+
+    Finding a good sequential cutoff while listening to Bon Jovi
+
+commit 6fdda8903064cc2e5580613cbeeaadadf2a06263
+Author: Murema Manganyi <mngkho012@myuct.ac.za>
+Date:   Tue Aug 6 00:10:41 2024 +0200
+
+    Making changes to compute method to increase efficiency
+
+commit e4e8182fedf07e71df270a1840d03f1ad5cb02f9
+Author: Murema Manganyi <mngkho012@myuct.ac.za>
+Date:   Mon Aug 5 21:09:20 2024 +0200
+
+    Refactor compute method to avoid unnecessary variable recreation
+
+commit f7ddf6ba581ed7737e2926d33a43bd2eb6f98f57
+Author: Murema Manganyi <mngkho012@myuct.ac.za>
+Date:   Sun Aug 4 20:48:39 2024 +0200
+
+    [200~Optimize parallel Abelian Sandpile simulation performance
+
+commit bba0103058b3a763f98e39e15edf0c351ecffa3d
+Author: Murema Manganyi <mngkho012@myuct.ac.za>
+Date:   Sat Aug 3 10:57:45 2024 +0200
+
+    Initial commit: Basic setup and directory structure for ParallelAlbeianSandpile
